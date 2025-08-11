@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.vscode/
+*.exe
+*.zip
+*.tar
+*.gz
+*.h5
+*.pb
+*.ckpt
+node_modules/
